@@ -1,4 +1,4 @@
 # RPSgame
-First game I created with html, CSS, and Java!!
+First game I created with Html, CSS, and Java!!
 <div> </div>
 So excited! This game is a classic 
